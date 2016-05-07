@@ -1,8 +1,8 @@
 # d3-examples-creators-talk
 
-#### earlier research
-https://github.com/iros/blockscanner
-http://bl.ocksplorer.org/
+#### earlier research  
+https://github.com/iros/blockscanner  
+http://bl.ocksplorer.org/  
 
 #### data sources
 
