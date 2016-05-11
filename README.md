@@ -43,4 +43,12 @@ http://bl.ocksplorer.org/
 [A SOM Clustering of block Colors - Including HSL & RGB](http://bl.ocks.org/nbremer/0d2e658691a4f93cad92)  
 [A SOM Clustering of block Colors - Including HSL & RGB raw](http://bl.ocks.org/nbremer/raw/0d2e658691a4f93cad92/)  
 [jLouvain - a javascript community detection library](https://github.com/upphiminn/jLouvain)  
-[enjalot/blocksonblocks on github](https://github.com/enjalot/blocksonblocks/tree/master/data)  
+[enjalot/blocksonblocks on github](https://github.com/enjalot/blocksonblocks/tree/master/data)
+
+#### bl.ocks we discovered with the examples-network visualization  
+[Repeat finder circle ruler arc genes line gen keystone numbering](http://bl.ocks.org/grybnicky/9be28947eccefb1ac05598b8fbc53d27)  
+[HTML Color Names](http://bl.ocks.org/enjalot/7c0fe907ba2010fed420)  
+[A SOM Clustering of block Colors - Including HSL & RGB - II](http://bl.ocks.org/nbremer/65dfbe8958e3ad2d275a)  
+[Polar Area](http://bl.ocks.org/curran/1583f3ec1dde21c6a10b)  
+[fresh block](http://bl.ocks.org/ericamartel/627517c6d7a1b1384bce3f5402fbb9c4)  
+[Fundamental Visualizations](http://bl.ocks.org/enoex/0e57e7fff27f2eee431f)  
