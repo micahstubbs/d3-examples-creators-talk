@@ -1,5 +1,9 @@
 # d3-examples-creators-talk
 
+#### the examples-network
+[Blocks Graph IV - d3.oakland talk](http://bl.ocks.org/micahstubbs/948378950dd7b3e31e8cda3b33ebbcc8)
+[the readme-vis project on github](https://github.com/micahstubbs/readme-vis)
+
 #### earlier research  
 https://github.com/iros/blockscanner  
 http://bl.ocksplorer.org/  
@@ -15,7 +19,7 @@ http://bl.ocksplorer.org/
 #### other #d3js community data 
 [d3surveys](https://github.com/enjalot/d3surveys)  
 
-#### links from d3.oakland
+#### links from the d3.oakland talk
 [the meetup page for the event](http://www.meetup.com/Bay-Area-d3-User-Group/events/230873489/)  
 [@micahstubbs](https://twitter.com/micahstubbs)  
 [h2o.ai](http://www.h2o.ai/#/)  
