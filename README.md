@@ -20,6 +20,7 @@ http://bl.ocksplorer.org/
 [d3surveys](https://github.com/enjalot/d3surveys)  
 
 #### links from the d3.oakland talk
+[video](https://www.youtube.com/watch?v=ksmOIQYyaoo)
 [the meetup page for the event](http://www.meetup.com/Bay-Area-d3-User-Group/events/230873489/)  
 [@micahstubbs](https://twitter.com/micahstubbs)  
 [h2o.ai](http://www.h2o.ai/#/)  
